@@ -1,4 +1,7 @@
-Welcome to your Appcelerator Titanium Mobile Project
+StrongLoop Alloy Wrapper
+===
+
+Wrapping StrongLoop to make it play nicer with @appcelerator specifically #tialloy 
 
 This is a blank project.  Start by editing your application's app.js to 
 make your first mobile project using Titanium.
