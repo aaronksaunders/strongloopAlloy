@@ -7,6 +7,11 @@ This is a blank project.  Start by editing your application's app.js to
 make your first mobile project using Titanium.
 
 
+![UI for Creating the User in StrongLoop Console](https://raw.github.com/aaronksaunders/strongloopAlloy/master/readme.images/createtheuser_screenshot.png)
+
+
+![UI for Creating the Car in StrongLoop Console](https://raw.github.com/aaronksaunders/strongloopAlloy/master/readme.images/createacar_screenshot.png)
+
 
 ----------------------------------
 Copyright (c) 2013-2014 Aaron K. Saunders
